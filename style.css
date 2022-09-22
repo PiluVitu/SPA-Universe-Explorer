@@ -60,6 +60,7 @@ a:focus {
   font-size: 2.4rem;
   line-height: 2.2rem;
 }
+
 body main {
   height: 80vh;
   padding: 6.3rem 10.2rem 0rem;
@@ -118,5 +119,3 @@ div.erro {
   align-items: center;
   justify-content: center;
 }
-
-

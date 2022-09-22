@@ -13,3 +13,5 @@ window.onpopstate = () => router.toggle()
 
 window.route = () => router.route()
 window.toggleDirect = () => router.toggleDirect()
+
+
