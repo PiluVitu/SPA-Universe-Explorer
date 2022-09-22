@@ -19,4 +19,6 @@ npm run dev
 
 Agora é só abrir no seu navegador a `http://localhost:3000/` e aproveitar 
 
+[App](https://spa-universe-explorer-bsdkh3wqc-piluvitu.vercel.app/)
 ![GifPage](./assets/Gif-SPA.gif)
+
